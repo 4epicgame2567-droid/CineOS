@@ -1,6 +1,6 @@
-Cine-OS Software License Agreement
+D3LTA-OS Software License Agreement
 
-Copyright © 2026 Cine-OS. All rights reserved.
+Copyright © 2026 D3LTA-OS. All rights reserved.
 
 This Software, including but not limited to its source code, design, functionality, structure, and associated content (collectively, the “Software”), is the exclusive intellectual property of Cine-OS and is protected under applicable copyright and intellectual property laws, including the United States Copyright Act.
 
